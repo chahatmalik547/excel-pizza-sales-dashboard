@@ -1,60 +1,111 @@
+🍕 Pizza Sales Analysis – Excel Dashboard
+📌 Project Overview
 
-🍕 **Excel Dashboard – Pizza Sales Analysis**
-Project Overview
+This project focuses on analyzing pizza sales data using Microsoft Excel to uncover insights related to revenue, customer purchasing patterns, and product performance.
+An interactive Excel dashboard was developed to help stakeholders make data-driven business decisions.
 
-This project analyzes pizza sales data using Microsoft Excel to understand revenue trends, customer ordering behavior, and product performance.
-An interactive Excel dashboard is created to provide clear insights for business decision-making.
+🎯 Objectives
 
-Key Metrics
+Analyze overall sales performance
+
+Identify top-selling and low-performing pizzas
+
+Understand customer preferences by category and size
+
+Study order trends by day and time
+
+Support inventory, marketing, and operational planning
+
+📊 Key Metrics
 
 Total Revenue
 
 Average Order Value
 
-Total Pizzas Sold
-
 Total Orders
+
+Total Pizzas Sold
 
 Average Pizzas per Order
 
-Analysis Highlights
+🔍 Analysis Performed
 
-Total Sales by Pizza Category: Identifies which categories generate the highest revenue.
+Sales analysis by pizza category
 
-Total Sales by Pizza Size: Shows customer preferences for different pizza sizes.
+Sales analysis by pizza size
 
-Daily Order Trends: Highlights the busiest days of the week.
+Daily trend analysis of total orders
 
-Hourly Sales Trends: Identifies peak order hours.
+Hourly trend analysis to identify peak order times
 
-Top & Bottom Selling Pizzas: Compares best-performing and least-performing pizzas.
+Identification of Top 5 and Bottom 5 pizzas by quantity sold
 
-Conclusions
+📈 Dashboard Features
 
-Certain pizza categories and sizes contribute more to overall revenue.
+Interactive Pivot Tables
 
-Orders peak on specific days and during certain hours.
+Dynamic Charts & Graphs
 
-A small number of pizzas account for a large portion of total sales.
+Slicers for easy filtering
 
-Recommendations
+Clean and user-friendly layout
 
-Promote high-selling pizza categories and sizes.
+Real-time metric updates based on filters
 
-Increase marketing efforts during peak order times.
+🧠 Key Insights
 
-Improve, reprice, or discontinue low-performing pizzas.
+Certain pizza categories and sizes generate the highest revenue
 
-Use sales trends for better inventory and staffing planning.
+Customer orders peak during specific days and hours
 
-Tools Used
+A small number of pizzas contribute significantly to total sales
+
+Low-performing pizzas present opportunities for improvement or removal
+
+✅ Recommendations
+
+Focus promotions on high-selling pizzas
+
+Optimize inventory based on demand trends
+
+Increase marketing during peak hours
+
+Review pricing or recipes for low-performing items
+
+🛠 Tools & Technologies
 
 Microsoft Excel
 
 Pivot Tables
 
-Charts & Graphs
-
-Slicers
-
 Excel Formulas
+
+Charts & Slicers
+
+👤 Author
+
+Chahat Malik
+Data Analysis | Excel | SQL
+
+📌 How to Use
+
+Download the Excel file
+
+Open in Microsoft Excel
+
+Use slicers to filter data
+
+Explore insights through the dashboard
+
+⭐ Future Enhancements
+
+Add Power BI version
+
+Automate data refresh
+
+Expand analysis to monthly and quarterly trends
+
+📄 License
+
+This project is for learning and portfolio purposes.
+
