@@ -1,7 +1,5 @@
-# excel-pizza-sales-dashboard
-Excel dashboard analyzing pizza sales data
 
-🍕 Excel Dashboard – Pizza Sales Analysis
+🍕 **Excel Dashboard – Pizza Sales Analysis**
 Project Overview
 
 This project analyzes pizza sales data using Microsoft Excel to understand revenue trends, customer ordering behavior, and product performance.
